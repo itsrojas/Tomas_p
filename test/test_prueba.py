@@ -1,5 +1,7 @@
 import unittest
 
+from app.multy import multiplicacion
+
 class TestMulti(unittest.TestCase):
     def test_multi(self):
         self.assertEqual(multiplicacion(2, 3), 6)
