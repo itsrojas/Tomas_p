@@ -7,3 +7,4 @@ class multiplicacion:
 
     def multiplicar(self):
         multiplicacion = self.a * self.b
+        return multiplicacion
