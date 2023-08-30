@@ -6,5 +6,4 @@ class multiplicacion:
         self.b = b
 
     def multiplicar(self):
-        multiplicacion = self.a * self.b
-        return multiplicacion
+       return self.a * self.b
