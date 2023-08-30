@@ -6,4 +6,4 @@ omit =
     env/*
     */test*
     */__init__.py
-    
+
